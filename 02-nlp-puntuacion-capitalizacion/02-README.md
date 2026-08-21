@@ -54,7 +54,7 @@ contexto secuencial.
 
 ## Mi aporte
 
-Trabajo grupal. Mi participación estuvo en el armado y entrenamiento de los modelos y en
-el análisis comparativo de resultados.
+Trabajo grupal. Participé en la construcción de features, el armado y entrenamiento de
+los modelos, el tuning de hiperparámetros y el análisis comparativo de resultados.
 
 **Stack:** Python (PyTorch, Transformers, Scikit-Learn).
