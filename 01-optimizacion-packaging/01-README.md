@@ -49,9 +49,7 @@ challenge. Al homologarse los grosores, ese stock además es prácticamente irre
 
 ## Sobre el código
 
-Está en `codigo-exploratorio/`. Es código de competencia, escrito contra reloj y sin
+Actualmente en refacciones. Es código de competencia, escrito contra reloj y sin
 refactorizar. El informe es la pieza que cuenta el trabajo completo.
-
-Los datos originales no se publican por las bases del challenge.
 
 **Stack:** Python (PuLP/CBC, SciPy-HiGHS, Pandas, Matplotlib).
